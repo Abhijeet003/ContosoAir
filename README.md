@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/abhinimb123/Contoso%20Air/_apis/build/status/ContosoAir.git?branchName=master)](https://dev.azure.com/abhinimb123/Contoso%20Air/_build/latest?definitionId=3&branchName=master)
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
